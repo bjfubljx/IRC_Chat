@@ -1,0 +1,250 @@
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick feng
+:  * feng ï¼šNickname is already in use
+nick su
+user girl sumiao
+:fengfan-PC 001 su:Welcome to the Internet Relay Network girl!sumiao
+motd
+mot
+mo
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+motd
+mot
+mo
+user feng
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+motd
+mot
+mo
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick qi
+user boy qidongsheng
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qidongsheng
+mode qi +o
+oper feng sm
+:feng oper feng sm
+mode qi +a
+:qi mode qi +a
+privmsg qi:hello
+:No recipient given (€]0W—U)
+mode qi -a
+:qi mode qi -a
+privmsg qi:hello
+:No recipient given (€]0W—U)
+privmsg qi:hello
+:No recipient given (€]0W—U)
+
+
+
+
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick qi
+user boy qidongsheng
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qidongsheng
+privmsg qi:hell
+:No recipient given (À
+G8V)
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick su
+user girl sumiao
+:fengfan-PC 001 su:Welcome to the Internet Relay Network girl!sumiao
+privmsg feng :hell
+su!su@sumiao privmsg feng :hell
+privmsg su :hell
+feng!feng@fengfan privmsg su :hell
+privmsg su:hell
+:No recipient given (su:hell)
+mode su +a
+oper feng sm
+:feng oper feng sm
+mode su +a
+:su mode su +a
+privmsg su :hell
+mode su -a
+:su mode su -a
+privmsg su :hell
+feng!feng@fengfan privmsg su :hell
+privmsg su :hel
+feng!feng@fengfan privmsg su :hel
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick qi
+user boy qidongsheng
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qidongsheng
+oper feng sm
+:feng oper feng sm
+mode qi +a
+:qi mode qi +a
+privmsg qi :hello
+mode qi -a
+:qi mode qi -a
+privmsg qi :hello
+feng!feng@fengfan privmsg qi :hello
+mode qi +o
+:qi mode qi +o
+nick hua
+user boy huaqijun
+:fengfan-PC 001 hua:Welcome to the Internet Relay Network boy!huaqijun
+mode hua +a
+oper qi sm
+:qi oper qi sm
+mode qi +a
+:qi mode qi +a
+privmsg qi :hello
+mode qi -a
+:qi mode qi -a
+mode qi -
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick qi
+user boy qidongsheng
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qidongsheng
+oper feng sm
+:feng oper feng sm
+mode qi +a
+:qi mode qi +a
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+nick qi
+user boy qidongsheng
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qidongsheng
+oper feng +o
+oper feng sm
+:feng oper feng sm
+mode qi +a
+:qi mode qi +a
+privmsg qi :hello
+mode qi -a
+:qi mode qi -a
+privmsg qi :h
+qi!qi@qidongsheng privmsg qi :h
+mode qi +o
+:qi mode qi +o
+nick hua
+user boy huaqi
+:fengfan-PC 001 hua:Welcome to the Internet Relay Network boy!huaqi
+mode hua +a
+:hua mode hua +a
+privmsg hua :feng
+join #love
+join #love
+qi!qi@ join #love
+#love :
+*feng
+#love :End of NAMES list
+mode qi +a
+:qi mode qi +a
+privmsg #love :hell
+feng!feng@fengfan privmsg #love :hell
+privmsg #love :hel
+qi!qi@ privmsg #love :hel
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+oper feng sm
+:feng oper feng sm
+nick qi
+user boy qi
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qi
+join #study
+mode qi +a
+:qi mode qi +a
+join #love
+join #study
+qi!qi@ join #study
+#study :
+*feng
+#study :End of NAMES list
+privmsg #study :hello
+°Š›Éÿ :Cannot send to channel
+mode qi -a
+:qi mode qi -a
+privmsg #study :helo
+°Š›Éÿ :Cannot send to channel
+privmsg #study :hel
+°Š›Éÿ :Cannot send to channel
+privmsg #study :he
+°Š›Éÿ :Cannot send to channel
+nick feng
+user boy fengfan
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!fengfan
+join #study
+nick qi
+user boy qidongsheng
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qidongsheng
+join #study
+qi!qi@ join #study
+#study :
+*feng
+#study :End of NAMES list
+privmsg #study :hello
+qi!qi@ privmsg #study :hello
+oper feng sm
+:feng oper feng sm
+mode qi +a
+:qi mode qi +a
+privmsg #study :hello
+feng!feng@fengfan privmsg #study :hello
+privmsg #study :hell
+qi!qi@ privmsg #study :hell
+privmsg #study :hel
+feng!feng@fengfan privmsg #study :hel
+privmsg #study :he
+qi!qi@ privmsg #study :he
+privmsg #study :h
+feng!feng@fengfan privmsg #study :h
+nick feng
+user boy feng
+:fengfan-PC 001 feng:Welcome to the Internet Relay Network boy!feng
+nick qi
+user boy qidongsheng
+:fengfan-PC 001 qi:Welcome to the Internet Relay Network boy!qidongsheng
+privmsg qi :hello
+qi!qi@qidongsheng privmsg qi :hello
+oper feng sm
+:feng oper feng sm
+privmsg qi :hello
+qi!qi@qidongsheng privmsg qi :hello
+mode qi +a
+:qi mode qi +a
+privmsg qi :hello
+lusers
+:There are 2 users and 2 services on 1 servers
+
+:2 :operator(s) online
+
+:0 :unknown connection(s)
+
+:0 :channels formed
+
+:I have 2 clients and 1 servers
+
+mode qi -a
+:qi mode qi -a
+privmsg qi :hello
+qi!qi@qidongsheng privmsg qi :hello
+mode qi +a
+:qi mode qi +a
+privmsg qi :hello
+mode qi -a
+:qi mode qi -a
+privmsg qi :hello
+qi!qi@qidongsheng privmsg qi :hello
